@@ -1,4 +1,4 @@
-# Feature-Optimization-Using-Genetic-Algorithm-
+# Implementing Genetic Algorithm for Feature Optimization
 
 <b><h3>KNAPSACK PROBLEM</h3></b>
 The Knapsack problem helps in achieving Local optimized problem, but Genetic Algorithm helps in achieving Global optimized problem. The main motive behind implementing this project is to optimize the feature selection.
